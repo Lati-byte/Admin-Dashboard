@@ -40,7 +40,7 @@ Flexbox is used within sections for aligning items:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/dashboard-project.git
+    git clone https://github.com/Lati-byte/Admin-Dashboard.git
     ```
 2. Open `index.html` in a web browser to view the dashboard.
 
